@@ -1,6 +1,6 @@
 """
 For/Else
-Somente irá executar o else ao dar break no loop
+Executa o else ao dar break ou se ele completar o loop
 """
 
 lista = ['Darlei', 'André', 'Lippi']
